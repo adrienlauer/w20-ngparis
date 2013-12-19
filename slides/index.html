@@ -1,0 +1,419 @@
+﻿<!doctype html>
+<!--
+  ~ Copyright (c) 2013 by PSA Peugeot Citroën. All rights reserved
+  -->
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>W20 - Enterprise class Web stack</title>
+
+    <meta name="description" content="A software stack to easily build advanced Web applications">
+    <meta name="author" content="Adrien LAUER">
+
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <link rel="stylesheet" href="css/reveal.min.css">
+    <link rel="stylesheet" href="css/theme/default.css" id="theme">
+
+    <!-- For syntax highlighting -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+
+    <!-- If the query includes 'print-pdf', use the PDF print sheet -->
+    <script>
+        document.write('<link rel="stylesheet" href="css/print/' + ( window.location.search.match(/print-pdf/gi) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">');
+    </script>
+
+    <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+<div class="reveal">
+
+    <!-- Any section element inside of this container is displayed as a slide -->
+    <div class="slides">
+        <section>
+            <h1>W20</h1>
+
+            <h3>Enterprise-class Web stack</h3>
+
+            <p>
+                <small>adrien.lauer@mpsa.com / PSA Peugeot Citroën</small>
+            </p>
+        </section>
+        <section>
+            <section>
+                <h2>Adrien LAUER</h2>
+                <br/>
+
+                <p>
+                    Software engineer at PSA Peugeot Citroën
+                </p>
+
+                <p>
+                    9 years of experience
+                </p>
+
+                <p>
+                    Designed and developed W20 during the last 2 years
+                </p>
+
+                <p>
+                    Currently working server-side (again!) on the PSA Java stack
+                </p>
+            </section>
+            <section>
+                <h2>PSA Peugeot Citroën</h2>
+                <br/>
+
+                <p>
+                    Well known car manufacturer
+                </p>
+
+                <p>
+                    A lot of Web applications
+                </p>
+
+                <p>
+                    Various server technologies: Java, PHP, .NET, Perl, ...
+                </p>
+            </section>
+        </section>
+        <section>
+            <h2>Agenda</h2>
+            <br/>
+
+            <p>
+                <a>overview</a>
+            </p>
+
+            <p>
+                concepts
+            </p>
+
+            <p>
+                contents
+            </p>
+
+            <p>
+                demo
+            </p>
+        </section>
+        <section style="text-align: left;">
+            <h2>What we had ?</h2>
+            <br/>
+
+            <p>
+                An existing framework made in 2005 to address industrial applications UI needs.
+            </p>
+            <br/>
+
+            <p>
+                It was very useful during 7 years but today it's...
+            </p>
+
+            <ul style="list-style: none;">
+                <li>
+                    ...too functionally limited,
+                </li>
+                <li>
+                    ...costly to maintain,
+                </li>
+                <li>
+                    ...too specific (so very little used outside industrial context)
+                </li>
+            </ul>
+        </section>
+        <section style="text-align: left;">
+            <h2>What we needed ?</h2>
+            <br/>
+
+            <p>
+                Still an UI framework but a better one !
+            </p>
+            <br/>
+
+            <ul style="list-style: none;">
+                <li>
+                    ...which could address any HTTP capable server application,
+                </li>
+                <li>
+                    ...which could leverage the latest Web technologies,
+                </li>
+                <li>
+                    ...which should be <a>simple to use yet powerful</a>
+                </li>
+            </ul>
+        </section>
+        <section style="text-align: left; ">
+            <h2>And what we've done</h2>
+            <br/>
+
+            <p>W20 is a <a>modular software stack</a> which provides:</p>
+            <br/>
+
+            <ul style="list-style: none;">
+                <li>...resource loading and dependency management</li>
+                <li>...full featured application engine</li>
+                <li>...various ready-to-use features (i18n, UI components, authentication, ...)</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Agenda</h2>
+            <br/>
+
+            <p>
+                overview
+            </p>
+
+            <p>
+                <a>concepts</a>
+            </p>
+
+            <p>
+                contents
+            </p>
+
+            <p>
+                demo
+            </p>
+        </section>
+        <section>
+            <h2>Fragment</h2>
+
+            <img src="img/fragment.png" style="height: 500px; background-color: silver;">
+        </section>
+        <section>
+            <pre><code class="json">{
+    "id": "w20-core",
+    "name": "W20 core",
+    "build": "{w20-core}/w20-core.min",
+
+    "modules": {
+        "application": {
+            "path": "{w20-core}/modules/application",
+            "configSchema": { ... }
+        },
+        ...
+    },
+
+    "i18n": {
+        "en": [ "{w20-core}/i18n/messages-en.json" ],
+        "fr": [ "{w20-core}/i18n/messages-fr.json" ]
+    },
+
+    "requireConfig": {
+        "shim": {
+            "{w20-core}/libext/angular/angular": {
+                "deps": [ "jquery" ],
+                "exports": "angular"
+            },
+            ...
+        }
+    }
+}</code></pre>
+        </section>
+        <section>
+            <h2>Application</h2>
+
+            <img src="img/application.png" style="height: 500px; background-color: silver;">
+        </section>
+        <section>
+            <pre><code class="json">{
+    "../../../w20/w20-core/w20-core.w20.json" : {
+        "modules" : {
+            "application":{
+                "id":"w20-basic-sample",
+                "home": "/basic/content"
+            },
+
+            "culture":{
+                "available":["en-US", "fr-FR"],
+                "default":"en-US"
+            }
+        }
+    },
+
+    "../../../w20/w20-ui/w20-ui.w20.json" : {
+        "modules" : {
+            "grid":{},
+            "datetime":{}
+        }
+    },
+
+    "../../../w20/w20-simple-theme/w20-simple-theme.w20.json" : {},
+
+    ...
+}</code></pre>
+        </section>        <section>
+            <pre><code class="html">
+&lt;!doctype html&gt;
+&lt;html data-w20-app&gt;
+&lt;head&gt;
+    &lt;script
+        type="text/javascript"
+        data-main="../../../w20/w20-core/w20"
+        src="../../../w20/w20-core/libext/requirejs/require.js"&gt;
+    &lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    ...
+&lt;/body&gt;
+&lt;/html&gt;
+            </code></pre>
+        </section>
+        <section>
+            <h2>Agenda</h2>
+            <br/>
+
+            <p>
+                overview
+            </p>
+
+            <p>
+                concepts
+            </p>
+
+            <p>
+                <a>contents</a>
+            </p>
+
+            <p>
+                demo
+            </p>
+        </section>
+        <section>
+            <h2>Core</h2>
+            <br/>
+            <ul style="list-style: none;">
+                <li>Loads and initialize the application</li>
+                <li>Provides the application engine</li>
+                <li>Adds i18n, security, storage, events, preferences, connectivity</li>
+            </ul>
+            <br/>
+            <br/>
+            <img src="img/requirejs.png" style="background: none; border: none; box-shadow: none;">
+            <img src="img/angularjs.png" style="background: none; border: none; box-shadow: none;">
+        </section>
+        <section>
+            <img src="img/loading_sequence.svg" style="width: 1200px; border: none; background: none; box-shadow: none;">
+       </section>
+        <section>
+            <h2>UI</h2>
+            <br/>
+            <ul style="list-style: none;">
+                <li>Provides UI framework</li>
+                <li>Adds menus, notifications, date/time pickers, combo box, data grid, tree view</li>
+            </ul>
+            <br/>
+            <br/>
+            <img src="img/bs3.png" style="background: silver;">
+        </section>
+        <section>
+            <h2>Testing</h2>
+            <br/>
+            <ul style="list-style: none;">
+                <li>Provides an in-browser runner</li>
+                <li>Will soon provide a runner for continuous integration</li>
+            </ul>
+            <br/>
+            <br/>
+            <img src="img/jasmine.png" style="background: silver;">
+        </section>
+        <section>
+            <h2>Multiple themes</h2>
+            <br/>
+
+            <ul style="list-style: none;">
+                <li>Every stylesheet and template is externalized into a theme</li>
+                <li>A simple theme is provided</li>
+                <li>Various PSA specific themes are also actively developed</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Agenda</h2>
+            <br/>
+
+            <p>
+                overview
+            </p>
+
+            <p>
+                concepts
+            </p>
+
+            <p>
+                contents
+            </p>
+
+            <p>
+                <a>demo</a>
+            </p>
+        </section>
+        <section>
+            <h1>Thanks !</h1>
+
+            <p>
+                <small>adrien.lauer@mpsa.com / PSA Peugeot Citroën</small>
+            </p>
+        </section>
+    </div>
+
+
+</div>
+
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+
+<script>
+
+    // Full list of configuration options available here:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+
+        theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+        transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+        // Parallax scrolling
+        // parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+        // parallaxBackgroundSize: '2100px 900px',
+
+        // Optional libraries used to extend on reveal.js
+        dependencies: [
+            { src: 'lib/js/classList.js', condition: function () {
+                return !document.body.classList;
+            } },
+            { src: 'plugin/markdown/marked.js', condition: function () {
+                return !!document.querySelector('[data-markdown]');
+            } },
+            { src: 'plugin/markdown/markdown.js', condition: function () {
+                return !!document.querySelector('[data-markdown]');
+            } },
+            { src: 'plugin/highlight/highlight.js', async: true, callback: function () {
+                hljs.initHighlightingOnLoad();
+            } },
+            { src: 'plugin/zoom-js/zoom.js', async: true, condition: function () {
+                return !!document.body.classList;
+            } },
+            { src: 'plugin/notes/notes.js', async: true, condition: function () {
+                return !!document.body.classList;
+            } }
+        ]
+    });
+
+</script>
+
+</body>
+</html>

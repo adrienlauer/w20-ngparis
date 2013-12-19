@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="806.61743"
+   height="383.71875"
+   id="svg3563"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="loading_sequence.svg">
+  <metadata
+     id="metadata4139">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4137">
+    <linearGradient
+       id="g8-8"
+       x1="32.975479"
+       y1="-18.575918"
+       x2="32.975479"
+       y2="65.242249"
+       gradientTransform="scale(1.8122847,0.55178967)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="white"
+         offset="0"
+         id="stop3678-8"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         stop-color="#999999"
+         offset="1"
+         id="stop3680-2"
+         style="stop-color:#51d8e1;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       y2="65.242249"
+       x2="32.975479"
+       y1="-18.575918"
+       x1="32.975479"
+       gradientTransform="matrix(1.8122847,0,0,0.55178967,1,1)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4987"
+       xlink:href="#g8-8"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#g8-8"
+       id="linearGradient5072"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.8122847,0.55178967)"
+       x1="32.975479"
+       y1="-18.575918"
+       x2="32.975479"
+       y2="65.242249" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#g8-8"
+       id="linearGradient5074"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.8122847,0.55178967)"
+       x1="32.975479"
+       y1="-18.575918"
+       x2="32.975479"
+       y2="65.242249" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#g8-8"
+       id="linearGradient5076"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.8122847,0.55178967)"
+       x1="32.975479"
+       y1="-18.575918"
+       x2="32.975479"
+       y2="65.242249" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#g8-8"
+       id="linearGradient5078"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.8122847,0.55178967)"
+       x1="32.975479"
+       y1="-18.575918"
+       x2="32.975479"
+       y2="65.242249" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#g8-8"
+       id="linearGradient5080"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.8122847,0.55178967)"
+       x1="32.975479"
+       y1="-18.575918"
+       x2="32.975479"
+       y2="65.242249" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview4135"
+     showgrid="false"
+     inkscape:zoom="1.1399177"
+     inkscape:cx="483.03514"
+     inkscape:cy="115.21427"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3563"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="355.28881,0.4510379"
+       id="guide5123" />
+  </sodipodi:namedview>
+  <rect
+     x="-106.91383"
+     y="-18.667974"
+     width="1449"
+     height="728"
+     id="rect3565"
+     style="fill:none;stroke:#000000;stroke-width:0" />
+  <g
+     transform="translate(556.75403,1)"
+     id="g3567">
+    <defs
+       id="defs3569">
+      <linearGradient
+         id="g0"
+         x1="0.5"
+         y1="-0.25"
+         x2="0.5"
+         y2="1">
+        <stop
+           stop-color="white"
+           offset="0%"
+           id="stop3572" />
+        <stop
+           stop-color="#999999"
+           offset="100%"
+           id="stop3574" />
+      </linearGradient>
+    </defs>
+    <g
+       id="g3576">
+      <rect
+         x="0"
+         y="0"
+         width="119.52191"
+         height="35"
+         style="color:#000000;fill:url(#linearGradient5076);fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3578" />
+    </g>
+    <g
+       transform="translate(0,35)"
+       id="g3580">
+      <line
+         x1="59.891079"
+         y1="-0.42538217"
+         x2="59.891079"
+         y2="348.29407"
+         style="fill:#999999;stroke:#999999;stroke-width:1.46891952;stroke-dasharray:3.67229897, 1.46891959"
+         id="line3582" />
+    </g>
+    <g
+       transform="translate(0,14.5)"
+       id="g3584">
+      <text
+         x="60"
+         style="text-anchor:middle"
+         y="-2"
+         id="text3586">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           font-weight="bold"
+           text-decoration="underline"
+           id="tspan3588"
+           style="font-size:12px;font-weight:bold;text-decoration: underline;fill:#000000;font-family:Arial">Javascript</tspan>      </text>
+      <text
+         x="60"
+         style="text-anchor:middle"
+         y="12.8"
+         id="text3590">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           font-weight="bold"
+           text-decoration="underline"
+           id="tspan3592"
+           style="font-size:12px;font-weight:bold;text-decoration: underline;fill:#000000;font-family:Arial">modules</tspan>      </text>
+    </g>
+    <g
+       id="g3594" />
+  </g>
+  <g
+     transform="translate(171.08616,1)"
+     id="g3596">
+    <defs
+       id="defs3598">
+      <linearGradient
+         id="g1"
+         x1="32.975479"
+         y1="-18.575918"
+         x2="32.975479"
+         y2="65.242249"
+         gradientTransform="scale(1.8122847,0.55178967)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           stop-color="white"
+           offset="0%"
+           id="stop3601" />
+        <stop
+           stop-color="#999999"
+           offset="100%"
+           id="stop3603" />
+      </linearGradient>
+    </defs>
+    <g
+       id="g3605">
+      <rect
+         x="0"
+         y="0"
+         width="119.52191"
+         height="35"
+         style="color:#000000;fill:url(#linearGradient5078);fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3607" />
+    </g>
+    <g
+       transform="translate(0,35)"
+       id="g3609">
+      <line
+         x1="59.760956"
+         y1="-0.46239001"
+         x2="59.760956"
+         y2="346.80109"
+         style="fill:#999999;stroke:#999999;stroke-width:1.4629848;stroke-dasharray:3.65746219, 1.46298487"
+         id="line3611" />
+    </g>
+    <g
+       transform="translate(0,14.5)"
+       id="g3613">
+      <text
+         x="60"
+         style="text-anchor:middle"
+         y="-2"
+         id="text3615">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           font-weight="bold"
+           text-decoration="underline"
+           id="tspan3617"
+           style="font-size:12px;font-weight:bold;text-decoration: underline;fill:#000000;font-family:Arial">W20</tspan>      </text>
+      <text
+         x="60"
+         style="text-anchor:middle"
+         y="12.8"
+         id="text3619">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           font-weight="bold"
+           text-decoration="underline"
+           id="tspan3621"
+           style="font-size:12px;font-weight:bold;text-decoration: underline;fill:#000000;font-family:Arial">loading function</tspan>      </text>
+    </g>
+    <g
+       id="g3623" />
+  </g>
+  <g
+     transform="matrix(0.82460757,0,0,1,105.90665,79.332026)"
+     id="g3625"
+     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+    <line
+       x1="0"
+       y1="0"
+       x2="138"
+       y2="0"
+       id="line3627"
+       style="stroke:#ffffff;stroke-width:2;stroke-dasharray:23, 0;fill:#ffffff;stroke-opacity:1" />
+    <g
+       transform="matrix(-1,0,0,-1,140,0)"
+       id="g3629"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+      <polygon
+         points="9,3 3,0 9,-3 "
+         id="polygon3631"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0.69428083,0,0,1,242.7678,91.332026)"
+     id="g3633"
+     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+    <line
+       x1="0"
+       y1="0"
+       x2="150"
+       y2="0"
+       id="line3635"
+       style="stroke:#ffffff;stroke-width:2;stroke-dasharray:23, 0;fill:#ffffff;stroke-opacity:1" />
+    <g
+       transform="matrix(-1,0,0,-1,152,0)"
+       id="g3637"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+      <polygon
+         points="9,-3 9,3 3,0 "
+         id="polygon3639"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     transform="translate(106.08616,59.332026)"
+     id="g3649">
+    <g
+       transform="translate(0,16)"
+       id="g3651">
+      <text
+         x="75"
+         style="text-anchor:middle;fill:#ffffff"
+         y="-2"
+         id="text3653">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           id="tspan3655"
+           style="font-size:12px;fill:#ffffff;font-family:Arial">loads</tspan>      </text>
+    </g>
+  </g>
+  <g
+     transform="translate(236.38302,71.332026)"
+     id="g3665">
+    <g
+       transform="translate(0,16)"
+       id="g3667">
+      <text
+         x="71.5"
+         style="text-anchor:middle;fill:#ffffff"
+         y="-2"
+         id="text3669">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           id="tspan3671"
+           style="font-size:12px;fill:#ffffff;font-family:Arial">create</tspan>      </text>
+    </g>
+  </g>
+  <g
+     transform="translate(43.086161,1)"
+     id="g3673">
+    <defs
+       id="defs3675">
+      <linearGradient
+         id="g8"
+         x1="32.975479"
+         y1="-18.575918"
+         x2="32.975479"
+         y2="65.242249"
+         gradientTransform="scale(1.8122847,0.55178967)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           stop-color="white"
+           offset="0"
+           id="stop3678"
+           style="stop-color:#ffffff;stop-opacity:1;" />
+        <stop
+           stop-color="#999999"
+           offset="1"
+           id="stop3680"
+           style="stop-color:#51d8e1;stop-opacity:1;" />
+      </linearGradient>
+    </defs>
+    <g
+       id="g3682">
+      <rect
+         x="0"
+         y="0"
+         width="119.52191"
+         height="35"
+         style="fill:url(#g8);stroke:#999999;stroke-width:2"
+         id="rect3684" />
+    </g>
+    <g
+       transform="translate(0,35)"
+       id="g3686">
+      <line
+         x1="59.760956"
+         y1="-0.48375249"
+         x2="59.760956"
+         y2="336.50073"
+         style="fill:#999999;stroke:#999999;stroke-width:1.4419167;stroke-dasharray:3.60479173, 1.44191669"
+         id="line3688" />
+    </g>
+    <g
+       transform="translate(0,14.5)"
+       id="g3690">
+      <text
+         x="60"
+         style="text-anchor:middle"
+         y="-2"
+         id="text3692">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           font-weight="bold"
+           text-decoration="underline"
+           id="tspan3694"
+           style="font-size:12px;font-weight:bold;text-decoration: underline;fill:#000000;font-family:Arial">Application</tspan>      </text>
+      <text
+         x="60"
+         style="text-anchor:middle"
+         y="12.8"
+         id="text3696">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           font-weight="bold"
+           text-decoration="underline"
+           id="tspan3698"
+           style="font-size:12px;font-weight:bold;text-decoration: underline;fill:#000000;font-family:Arial">index.html</tspan>      </text>
+    </g>
+    <g
+       id="g3700" />
+  </g>
+  <g
+     transform="translate(299.08616,1)"
+     id="g3702">
+    <defs
+       id="defs3704">
+      <linearGradient
+         id="g9"
+         x1="32.975479"
+         y1="-18.575918"
+         x2="32.975479"
+         y2="65.242249"
+         gradientTransform="scale(1.8122847,0.55178967)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           stop-color="white"
+           offset="0%"
+           id="stop3707" />
+        <stop
+           stop-color="#999999"
+           offset="100%"
+           id="stop3709" />
+      </linearGradient>
+    </defs>
+    <g
+       id="g3711">
+      <rect
+         x="0"
+         y="0"
+         width="119.52191"
+         height="35"
+         style="color:#000000;fill:url(#linearGradient5080);fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3713" />
+    </g>
+    <g
+       transform="translate(0,35)"
+       id="g3715">
+      <line
+         x1="59.498169"
+         y1="-0.4272154"
+         x2="59.498169"
+         y2="347.41867"
+         style="fill:#999999;stroke:#999999;stroke-width:1.46707845;stroke-dasharray:3.66769628, 1.46707852"
+         id="line3717" />
+    </g>
+    <g
+       transform="translate(0,14.5)"
+       id="g3719">
+      <text
+         x="60"
+         style="text-anchor:middle"
+         y="-2"
+         id="text3721">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           font-weight="bold"
+           text-decoration="underline"
+           id="tspan3723"
+           style="font-size:12px;font-weight:bold;text-decoration: underline;fill:#000000;font-family:Arial">RequireJS</tspan>      </text>
+      <text
+         x="60"
+         style="text-anchor:middle"
+         y="12.8"
+         id="text3725">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           font-weight="bold"
+           text-decoration="underline"
+           id="tspan3727"
+           style="font-size:12px;font-weight:bold;text-decoration: underline;fill:#000000;font-family:Arial">bootstrap loader</tspan>      </text>
+    </g>
+    <g
+       id="g3729" />
+  </g>
+  <g
+     transform="matrix(1,0,0,0.39331992,221.71116,77.912915)"
+     id="g3760">
+    <rect
+       x="0"
+       y="0"
+       width="18.382353"
+       height="563.35205"
+       id="rect3762"
+       style="fill:#ececec;stroke:#999999;stroke-width:2" />
+    <g
+       id="g3764" />
+  </g>
+  <g
+     transform="matrix(1,0,0,1.0406848,349.71116,89.428446)"
+     id="g3766">
+    <rect
+       x="0"
+       y="0"
+       width="18.382353"
+       height="62.686752"
+       id="rect3768"
+       style="fill:#ececec;stroke:#999999;stroke-width:2" />
+    <g
+       id="g3770" />
+  </g>
+  <g
+     transform="translate(428.08616,1)"
+     id="g3772">
+    <defs
+       id="defs3774">
+      <linearGradient
+         id="g13"
+         x1="32.975479"
+         y1="-18.575918"
+         x2="32.975479"
+         y2="65.242249"
+         gradientTransform="scale(1.8122847,0.55178967)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           stop-color="white"
+           offset="0%"
+           id="stop3777" />
+        <stop
+           stop-color="#999999"
+           offset="100%"
+           id="stop3779" />
+      </linearGradient>
+    </defs>
+    <g
+       id="g3781">
+      <rect
+         x="0"
+         y="0"
+         width="119.52191"
+         height="35"
+         style="color:#000000;fill:url(#linearGradient5074);fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3783" />
+    </g>
+    <g
+       transform="translate(0,35)"
+       id="g3785">
+      <line
+         x1="59.755741"
+         y1="-0.27921495"
+         x2="59.755741"
+         y2="344.65808"
+         style="fill:#999999;stroke:#999999;stroke-width:1.45790696;stroke-dasharray:3.64476747, 1.457907"
+         id="line3787" />
+    </g>
+    <g
+       transform="translate(0,14.5)"
+       id="g3789">
+      <text
+         x="60"
+         style="text-anchor:middle"
+         y="-2"
+         id="text3791">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           font-weight="bold"
+           text-decoration="underline"
+           id="tspan3793"
+           style="font-size:12px;font-weight:bold;text-decoration: underline;fill:#000000;font-family:Arial">RequireJS</tspan>      </text>
+      <text
+         x="60"
+         style="text-anchor:middle"
+         y="12.8"
+         id="text3795">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           font-weight="bold"
+           text-decoration="underline"
+           id="tspan3797"
+           style="font-size:12px;font-weight:bold;text-decoration: underline;fill:#000000;font-family:Arial">main loader</tspan>      </text>
+    </g>
+    <g
+       id="g3799" />
+  </g>
+  <g
+     transform="translate(240.58616,187.08203)"
+     id="g3817"
+     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+    <polygon
+       points="6.2749004,16.487069 6.2749004,22.306034 0,19.396552 "
+       id="polygon3819"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 0,0 q 35.856574,0 35.856574,9.6982759 0,9.6982761 -35.856574,9.6982761 35.856574,0 35.856574,-9.6982761 Q 35.856574,0 0,0 m 0,0"
+       id="path3821"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    <polygon
+       points="6.2749004,16.487069 6.2749004,22.306034 0,19.396552 "
+       id="polygon3823"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    <g
+       transform="translate(40,19.25)"
+       id="g3825"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+      <text
+         x="-1.9250222"
+         style="text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
+         y="-5.7218833"
+         id="text3827">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           id="tspan3829"
+           style="font-size:12px;fill:#ffffff;font-family:Arial;stroke:none;stroke-opacity:1">merge manifests</tspan>      </text>
+    </g>
+  </g>
+  <g
+     transform="translate(240.58616,228.08203)"
+     id="g3831"
+     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+    <polygon
+       points="6.2749004,16.487069 6.2749004,22.306034 0,19.396552 "
+       id="polygon3833"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    <path
+       d="m 0,0 q 35.856574,0 35.856574,9.6982759 0,9.6982761 -35.856574,9.6982761 35.856574,0 35.856574,-9.6982761 Q 35.856574,0 0,0 m 0,0"
+       id="path3835"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    <polygon
+       points="6.2749004,16.487069 6.2749004,22.306034 0,19.396552 "
+       id="polygon3837"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    <g
+       transform="translate(40,11.25)"
+       id="g3839"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+      <text
+         x="-1.9250222"
+         style="text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
+         y="-6.9625111"
+         id="text3841">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           id="tspan3843"
+           style="font-size:12px;fill:#ffffff;font-family:Arial;stroke:none;stroke-opacity:1">compute final</tspan>      </text>
+      <text
+         x="-1.9250222"
+         style="text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
+         y="7.8374891"
+         id="text3845">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           id="tspan3847"
+           style="font-size:12px;fill:#ffffff;font-family:Arial;stroke:none;stroke-opacity:1">configuration</tspan>      </text>
+    </g>
+  </g>
+  <g
+     transform="matrix(0.49866807,0,0,1,240.5424,284.33203)"
+     id="g3849"
+     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+    <line
+       x1="0"
+       y1="0"
+       x2="474"
+       y2="0"
+       id="line3851"
+       style="stroke:#ffffff;stroke-width:2;stroke-dasharray:23, 0;fill:#ffffff;stroke-opacity:1" />
+    <g
+       transform="matrix(-1,0,0,-1,476,0)"
+       id="g3853"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+      <polygon
+         points="9,3 3,0 9,-3 "
+         id="polygon3855"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     transform="translate(232.58616,263.33203)"
+     id="g3857">
+    <g
+       transform="translate(0,16)"
+       id="g3859">
+      <text
+         x="71.5"
+         style="text-anchor:middle;fill:#ffffff"
+         y="-2"
+         id="text3861">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           id="tspan3863"
+           style="font-size:12px;fill:#ffffff;font-family:Arial">create</tspan>      </text>
+    </g>
+  </g>
+  <g
+     transform="matrix(0.68371159,0,0,1,498.75485,296.33203)"
+     id="g4024"
+     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+    <line
+       x1="0"
+       y1="0"
+       x2="156"
+       y2="0"
+       id="line4026"
+       style="stroke:#ffffff;stroke-width:2;stroke-dasharray:23, 0;fill:#ffffff;stroke-opacity:1" />
+    <g
+       transform="matrix(-1,0,0,-1,158,0)"
+       id="g4028"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+      <polygon
+         points="3,0 9,-3 9,3 "
+         id="polygon4030"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     transform="translate(480.33616,275.33203)"
+     id="g4032">
+    <g
+       transform="translate(0,16)"
+       id="g4034">
+      <text
+         x="83.75"
+         style="text-anchor:middle;fill:#ffffff"
+         y="-2"
+         id="text4036">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           id="tspan4038"
+           style="font-size:12px;fill:#ffffff;font-family:Arial">loads</tspan>      </text>
+    </g>
+  </g>
+  <g
+     transform="matrix(1,0,0,0.24593626,479.71116,283.16882)"
+     id="g4040">
+    <rect
+       x="0"
+       y="0"
+       width="18.382353"
+       height="405.25009"
+       id="rect4042"
+       style="fill:#ececec;stroke:#999999;stroke-width:2" />
+    <g
+       id="g4044" />
+  </g>
+  <g
+     transform="translate(0,24.313282)"
+     id="g4046">
+    <circle
+       cx="20.17798"
+       cy="6.4741035"
+       r="6.7259932"
+       id="circle4048"
+       d="m 26.903974,6.4741035 c 0,3.7146635 -3.01133,6.7259935 -6.725994,6.7259935 -3.714663,0 -6.725993,-3.01133 -6.725993,-6.7259935 0,-3.7146635 3.01133,-6.72599321 6.725993,-6.72599321 3.714664,0 6.725994,3.01132971 6.725994,6.72599321 z"
+       sodipodi:cx="20.17798"
+       sodipodi:cy="6.4741035"
+       sodipodi:rx="6.7259932"
+       sodipodi:ry="6.7259932"
+       style="fill:#ffffff;stroke:#666666;stroke-width:2" />
+    <line
+       x1="20.17798"
+       y1="12.948207"
+       x2="20.17798"
+       y2="38.84462"
+       id="line4050"
+       style="fill:none;stroke:#666666;stroke-width:2" />
+    <line
+       x1="20.17798"
+       y1="38.84462"
+       x2="13.451986"
+       y2="64.741035"
+       id="line4052"
+       style="fill:#ffffff;stroke:#666666;stroke-width:2" />
+    <line
+       x1="20.17798"
+       y1="38.84462"
+       x2="26.903973"
+       y2="64.741035"
+       id="line4054"
+       style="fill:#ffffff;stroke:#666666;stroke-width:2" />
+    <line
+       x1="20.17798"
+       y1="38.84462"
+       x2="26.903973"
+       y2="64.741035"
+       id="line4056"
+       style="fill:#ffffff;stroke:#666666;stroke-width:2" />
+    <line
+       x1="0"
+       y1="19.42231"
+       x2="40.355961"
+       y2="19.42231"
+       id="line4058"
+       style="fill:#ffffff;stroke:#666666;stroke-width:2" />
+    <g
+       id="g4060" />
+  </g>
+  <g
+     transform="translate(-16.264016,41.332026)"
+     id="g4062"
+     style="fill:#ffffff">
+    <g
+       transform="translate(0,16)"
+       id="g4064"
+       style="fill:#ffffff">
+      <text
+         x="75"
+         style="text-anchor:middle;fill:#ffffff"
+         y="-2"
+         id="text4066">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           id="tspan4068"
+           style="font-size:12px;fill:#ffffff;font-family:Arial">loads</tspan>      </text>
+    </g>
+  </g>
+  <g
+     transform="matrix(0.45289805,0,0,1,29.170972,60.332026)"
+     id="g4070"
+     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+    <line
+       x1="0"
+       y1="0"
+       x2="138"
+       y2="0"
+       id="line4072"
+       style="stroke:#ffffff;stroke-width:2;stroke-dasharray:23, 0;fill:#ffffff;stroke-opacity:1" />
+    <g
+       transform="matrix(-1,0,0,-1,140,0)"
+       id="g4074"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+      <polygon
+         points="9,3 3,0 9,-3 "
+         id="polygon4076"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1,0,0,0.51629333,93.711161,58.912401)"
+     id="g4078">
+    <rect
+       x="0"
+       y="0"
+       width="18.382353"
+       height="627.39862"
+       id="rect4080"
+       style="fill:#ececec;stroke:#999999;stroke-width:2" />
+    <g
+       id="g4082" />
+  </g>
+  <g
+     transform="translate(686.08616,1)"
+     id="g4084">
+    <defs
+       id="defs4086">
+      <linearGradient
+         id="g43"
+         x1="32.975479"
+         y1="-18.575918"
+         x2="32.975479"
+         y2="65.242249"
+         gradientTransform="scale(1.8122847,0.55178967)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           stop-color="white"
+           offset="0%"
+           id="stop4089" />
+        <stop
+           stop-color="#999999"
+           offset="100%"
+           id="stop4091" />
+      </linearGradient>
+    </defs>
+    <g
+       id="g4093">
+      <rect
+         x="0"
+         y="0"
+         width="119.52191"
+         height="35"
+         style="color:#000000;fill:url(#linearGradient5072);fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4095" />
+    </g>
+    <g
+       transform="translate(0,35)"
+       id="g4097">
+      <line
+         x1="60.023743"
+         y1="-0.42722651"
+         x2="60.023743"
+         y2="346.87561"
+         style="fill:#999999;stroke:#999999;stroke-width:1.46706712;stroke-dasharray:3.66766788, 1.46706716"
+         id="line4099" />
+    </g>
+    <g
+       transform="translate(0,14.5)"
+       id="g4101">
+      <text
+         x="60"
+         style="text-anchor:middle"
+         y="-2"
+         id="text4103">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           font-weight="bold"
+           text-decoration="underline"
+           id="tspan4105"
+           style="font-size:12px;font-weight:bold;text-decoration: underline;fill:#000000;font-family:Arial">AngularJS</tspan>      </text>
+      <text
+         x="60"
+         style="text-anchor:middle"
+         y="12.8"
+         id="text4107">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           font-weight="bold"
+           text-decoration="underline"
+           id="tspan4109"
+           style="font-size:12px;font-weight:bold;text-decoration: underline;fill:#000000;font-family:Arial">code</tspan>      </text>
+    </g>
+    <g
+       id="g4111" />
+  </g>
+  <g
+     transform="matrix(0.77920309,0,0,1,628.85877,312.33203)"
+     id="g4113"
+     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+    <line
+       x1="0"
+       y1="0"
+       x2="137"
+       y2="0"
+       id="line4115"
+       style="stroke:#ffffff;stroke-width:2;stroke-dasharray:23, 0;fill:#ffffff;stroke-opacity:1" />
+    <g
+       transform="matrix(-1,0,0,-1,139,0)"
+       id="g4117"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+      <polygon
+         points="9,-3 9,3 3,0 "
+         id="polygon4119"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     transform="translate(612.33616,290.33203)"
+     id="g4121">
+    <g
+       transform="translate(0,16)"
+       id="g4123">
+      <text
+         x="83.75"
+         style="text-anchor:middle;fill:#ffffff"
+         y="-2"
+         id="text4125">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           id="tspan4127"
+           style="font-size:12px;fill:#ffffff;font-family:Arial">initialize</tspan>      </text>
+    </g>
+  </g>
+  <g
+     transform="matrix(1,0,0,0.49892024,737.71121,298.26839)"
+     id="g4129">
+    <rect
+       x="0"
+       y="0"
+       width="18.382353"
+       height="169.67871"
+       id="rect4131"
+       style="fill:#ececec;stroke:#999999;stroke-width:2" />
+    <g
+       id="g4133" />
+  </g>
+  <g
+     transform="matrix(1,0,0,0.24593626,608.02856,282.84034)"
+     id="g4040-0">
+    <rect
+       x="0"
+       y="0"
+       width="18.382353"
+       height="405.25009"
+       id="rect4042-9"
+       style="fill:#ececec;stroke:#999999;stroke-width:2" />
+    <g
+       id="g4044-4" />
+  </g>
+  <g
+     transform="translate(370.82859,105.68075)"
+     id="g3817-5"
+     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+    <polygon
+       points="6.2749004,16.487069 6.2749004,22.306034 0,19.396552 "
+       id="polygon3819-5"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1"
+       transform="translate(0,21.090672)" />
+    <path
+       d="m 0,21.090672 q 35.856574,0 35.856574,9.698276 0,9.698276 -35.856574,9.698276 35.856574,0 35.856574,-9.698276 0,-9.698276 -35.856574,-9.698276 m 0,0"
+       id="path3821-1"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    <polygon
+       points="6.2749004,16.487069 6.2749004,22.306034 0,19.396552 "
+       id="polygon3823-7"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1"
+       transform="translate(0,21.090672)" />
+    <g
+       transform="translate(40,40.340672)"
+       id="g3825-1"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+      <text
+         x="1.7968611"
+         style="text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
+         y="-5.7218833"
+         id="text3827-1">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           id="tspan3829-5"
+           style="font-size:12px;fill:#ffffff;font-family:Arial;stroke:none;stroke-opacity:1">read manifests</tspan>      </text>
+    </g>
+    <polygon
+       points="6.2749004,16.487069 6.2749004,22.306034 0,19.396552 "
+       id="polygon3819-5-2"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1"
+       transform="translate(-1.8609479,-8.6843953)" />
+    <path
+       d="m -1.8609479,-8.6843953 q 35.8565699,0 35.8565699,9.698276 0,9.6982763 -35.8565699,9.6982763 35.8565699,0 35.8565699,-9.6982763 0,-9.698276 -35.8565699,-9.698276 m 0,0"
+       id="path3821-1-7"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    <polygon
+       points="6.2749004,16.487069 6.2749004,22.306034 0,19.396552 "
+       id="polygon3823-7-6"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1"
+       transform="translate(-1.8609479,-8.6843953)" />
+    <g
+       transform="translate(38.139052,10.565603)"
+       id="g3825-1-1"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+      <text
+         x="1.7968611"
+         style="text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
+         y="-5.7218833"
+         id="text3827-1-4">
+        <tspan
+           xml:space="preserve"
+           font-size="12"
+           id="tspan3829-5-2"
+           style="font-size:12px;fill:#ffffff;font-family:Arial;stroke:none;stroke-opacity:1">read configuration</tspan>      </text>
+    </g>
+  </g>
+  <g
+     transform="matrix(-0.70004351,0,0,-1,347.29749,148.16302)"
+     id="g3633-3"
+     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+    <line
+       x1="0"
+       y1="0"
+       x2="150"
+       y2="0"
+       id="line3635-2"
+       style="stroke:#ffffff;stroke-width:2;stroke-dasharray:23, 0;fill:#ffffff;stroke-opacity:1" />
+    <g
+       transform="matrix(-1,0,0,-1,152,0)"
+       id="g3637-2"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1">
+      <polygon
+         points="9,-3 9,3 3,0 "
+         id="polygon3639-1"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
