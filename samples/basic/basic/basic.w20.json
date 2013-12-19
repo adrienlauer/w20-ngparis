@@ -1,0 +1,28 @@
+{
+    "id": "basic",
+    "name": "Basic sample fragment",
+    "author": "Adrien LAUER",
+    "description": "Basic showcases of W20 functions",
+
+    "modules": {
+        "user": {
+            "path": "{basic}/modules/user",
+            "autoload": true
+        }
+    },
+
+    "i18n": {
+        "en": ["{basic}/i18n/messages-en.json", "{basic}/i18n/messages-user-en.json"],
+        "fr": ["{basic}/i18n/messages-fr.json", "{basic}/i18n/messages-user-fr.json"]
+    },
+
+    "routes": {
+        "content":{
+            "templateUrl":"{basic}/views/content.html"
+        },
+        "user":{
+            "templateUrl":"{basic}/views/user.html",
+            "controller":"UserController"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "application.subtitle": "Exemple simple",
+	"application.view.basic.content": "Exemple de contenu",
+	"application.view.basic.user": "Gestion des utilisateurs",
+    "application.view.content.title": "Titre de page",
+	"application.view.content.tab1": "Onglet 1",
+	"application.view.content.tab2": "Onglet 2",
+	"application.view.content.tab3": "Onglet 3",
+
+	"application.view.content.title1": "Titre 1",
+	"application.view.content.title2": "Titre 2",
+	"application.view.content.title3": "Titre 3",
+	"application.view.content.title4": "Titre 4",
+	"application.view.content.title5": "Titre 5",
+	"application.view.content.title6": "Titre 6",
+	
+	"application.view.content.table.header1": "Prénom",
+	"application.view.content.table.header2": "Nom",
+	
+	"application.form.submit": "Soumettre",
+	"application.form.reset": "Réinitialiser",
+	
+	"application.helper.submitform": "Soumet le formulaire",
+	"application.helper.clearform": "Remet le formulaire à zéro",
+	
+	"application.view.content.errormsg": "Message d'erreur.",
+	"application.view.content.error": "Erreur !",
+	
+	"application.help.article.article1": "Article d'aide 1"	
+}

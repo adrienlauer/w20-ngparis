@@ -1,0 +1,15 @@
+{
+    "../../../w20/w20-core/w20-core.w20.json": {
+        "preload": false
+    },
+
+    "../../../w20/w20-test/w20-test.w20.json": {
+        "preload": false,
+        "modules": {
+            "test": {
+                "modules": ["user"],
+                "tests": ["user.test"]
+            }
+        }
+    }
+}
